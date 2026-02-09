@@ -1,4 +1,4 @@
-class rest_api_tui < Formula
+class Resttui < Formula
   desc "Commandline UI for REST API test facility"
   homepage "https://github.com/gratluri/rest-api-tui"
   url "https://github.com/gratluri/rest-api-tui/archive/refs/tags/v0.1.0.tar.gz"
